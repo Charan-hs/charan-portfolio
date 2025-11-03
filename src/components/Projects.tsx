@@ -14,7 +14,7 @@ import { motion } from 'framer-motion';
 import { GitHub, Launch } from '@mui/icons-material';
 import greenHub from  '../assets/greenhub.png'
 import backend from  '../assets/backend.png'
-import pamImage from '../assets/pam.png'
+import pamImage from '../assets/PAM.png'
 
 const MotionCard = motion(Card);
 
