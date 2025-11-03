@@ -9,7 +9,7 @@ import {
   Paper
 } from '@mui/material';
 import { motion } from 'framer-motion';
-import { Send, Email, Phone, LocationOn } from '@mui/icons-material';
+import { Send, Email, LocationOn } from '@mui/icons-material';
 import emailjs from '@emailjs/browser';
 import SnackBar from './SnackBar';
 

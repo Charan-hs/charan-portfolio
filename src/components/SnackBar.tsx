@@ -1,5 +1,4 @@
-import { Alert, Snackbar } from '@mui/material'
-import React from 'react'
+import { Alert, Snackbar } from '@mui/material';
 
 function SnackBar({openSnackbar, setOpenSnackbar, message,severity}: 
     {openSnackbar: boolean, setOpenSnackbar: () =>  void, message: string , severity?: "success" | "info" | "warning" | "error"}) {
